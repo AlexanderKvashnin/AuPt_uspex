@@ -1,0 +1,3 @@
+All files are in the POSCAR format.
+  
+Name contains composition of the cluster
