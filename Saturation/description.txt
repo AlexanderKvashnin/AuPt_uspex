@@ -1,1 +1,0 @@
-Dump files from LAMMPS with simulation of saturation process
