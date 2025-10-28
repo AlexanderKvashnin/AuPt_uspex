@@ -4,3 +4,6 @@ The ground-state structures of PtAu clusters were obtained in a large compositio
 
 This method demonstrated 5–50 times higher speed than the traditional USPEX code for each composition [[4](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b03510),[5](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d1nr05653k),[6](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp05139j),[7](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c01753)]
 
+Generation of clusters on the graphene or any other substrates can be made using the code in the NP2surf folder. Readme file for the code is located there.
+
+Ready-to-use machine learning potential (MTP) [[8](https://epubs.siam.org/doi/abs/10.1137/15M1054183)] for simulation of chemical reactor is presented in the MLIP folder together with structural configurations for its training. 
