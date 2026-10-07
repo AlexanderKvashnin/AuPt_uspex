@@ -7,3 +7,7 @@ This method demonstrated 5–50 times higher speed than the traditional USPEX co
 Generation of clusters on the graphene or any other substrates can be made using the code in the NP2surf folder. Readme file for the code is located there.
 
 Ready-to-use machine learning potential (MTP) [[8](https://epubs.siam.org/doi/abs/10.1137/15M1054183)] for simulation of chemical reactor is presented in the MLIP folder together with structural configurations for its training. 
+
+Information presented here is published in [Small journal ](https://onlinelibrary.wiley.com/doi/10.1002/smll.75835)
+
+ I.V. Chepkasov, V.S. Baidyshev, A.D. Radina, M.M. Lukanov, V.S. Baturin, M. Lazarev, N.V. Ter-Oganessian, A.S. Galushko, M.N. Khrizanforov, V.P. Ananikov, A.G. Kvashnin, Defect-Enhanced Low-Temperature CO Oxidation on Graphene-Supported Pt-Au Nanoclusters, Small, 2026
